@@ -10,22 +10,23 @@ An introduction to Python can be seen here: <br>
 # Steps for Completing the Assignment
 
 ## Step 1
-Make a github account if you don't have one already.
+This week, you can work on the programming assignment on kaggle:
+https://www.kaggle.com/code/datasniffer/perceptrons-mlp-s-and-gradient-descent
 
 ## Step 2:
-Clone this github repository onto your laptop via a terminal, or use google colab, or kaggle...anywhere where you can edit python code.
+After you're done with the Python tasks in that notebook, clone this github repository onto your laptop via a terminal, or use google colab, or kaggle...anywhere where you can edit python code.
 There are plenty of online resources which demo how to clone a repo e.g. here: https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands. 
-(Notice that you need to install python if you decide to work on your laptop)
 
 ## Step 3: 
-Edit the tasks.py file by filling in your solution code.
-Run the file to see whether you have errors.
+You can simply copy-paste your function definitions from the python notebook into the tasks.py file.
+Check under Actions on GitHub to see how many points you received. 
 You can also run the grading files to preview whether your solution passes, but you are not allowed to change these files.
 
 ## Step 4:
-Add this week's kaggle certificate(s) to the repository (course: https://www.kaggle.com/learn/python ; https://www.kaggle.com/learn/pandas). If you received more than one certificate for this week, combine them into one pdf before. Name the file `certificate.pdf` 
+Also add this week's kaggle certificate to the repository (https://www.kaggle.com/learn/intro-to-deep-learning). Name the file `certificate.pdf` 
 
 
 ## Step 5: 
-Push your changes to the repo back to github. The grading will occur automatically but might take a minute.
+Push your changes to the repo back to github. The grading will occur automatically but might take a minute. If you have questions or problems, make sure to come to the tutorial on Friday!
+
 Again, the add/commit/push workflow of github is explained in various places online: https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands)
