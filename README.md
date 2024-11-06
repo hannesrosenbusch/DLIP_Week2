@@ -11,7 +11,7 @@ An introduction to Python can be seen here: <br>
 
 ## Step 1
 This week, you can work on the programming assignment on kaggle:
-https://www.kaggle.com/code/datasniffer/perceptrons-mlp-s-and-gradient-descent
+<a href="https://www.kaggle.com/code/datasniffer/perceptrons-mlp-s-and-gradient-descent" target="_blank">https://www.kaggle.com/code/datasniffer/perceptrons-mlp-s-and-gradient-descent</a>
 
 ## Step 2:
 After you're done with the Python tasks in that notebook, clone this github repository onto your laptop via a terminal, or use google colab, or kaggle...anywhere where you can edit python code.
