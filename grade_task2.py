@@ -5,6 +5,8 @@ from sklearn import datasets
 
 from tasks import *
 
+# unit test for second function
+
 # Setting up common test parameters
 np.random.seed(223)
 w = np.random.normal(size=(6*4 + 4*7 + 7))  # vector with input weight values
