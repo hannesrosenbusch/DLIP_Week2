@@ -18,7 +18,7 @@ After you're done with the Python tasks in that notebook, clone this github repo
 There are plenty of online resources which demo how to clone a repo e.g. here: https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands. 
 
 ## Step 3: 
-You can simply copy-paste your function definitions from the python notebook into the tasks.py file.
+You can simply copy-paste your function definitions from the Jupyter notebook into the tasks.py file.
 Check under Actions on GitHub to see how many points you received. 
 You can also run the grading files to preview whether your solution passes, but you are not allowed to change these files.
 
